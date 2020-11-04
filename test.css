@@ -1,0 +1,35 @@
+body{
+
+}
+.section_title h2{
+	text-align: center;
+	font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 100px;
+    padding-top: 50px;
+}
+.technology_section_wrapper p{
+	font-size: 14px;
+    font-weight: 500;
+    color: #4d4d4d;
+}
+.technology_section{
+	background: orange;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.technology_section_wrapper{
+	width: 90%;
+	display: flex;
+	margin: auto;
+	padding-left: 10%;
+}
+.technology_section_left_text{
+	padding: 0 25px;
+}
+.technology_section_img img{
+	width: 490px;
+}
+.technology_section_right_text{
+	padding: 0 25px;
+}
